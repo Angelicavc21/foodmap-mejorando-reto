@@ -7,7 +7,7 @@ El reto consiste en crear una web-app que a través de un input pueda filtrar lo
 ## Flujo de la aplicación
 
 * Vista splash con duración de 2 a 5 segundos que redirecciona a tu vista principal. 
-![Modal](assets/images/1.jpg)
+![Modal]('assets/images/1.jpg')
 
 * En la vista principal se muestran todos los restaurantes "cerca de ti" junto con el input para filtrar tu elección. ![Modal](assets/images/2.jpg)
 
